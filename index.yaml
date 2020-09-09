@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  go-k8s:
+  - apiVersion: v1
+    created: "2020-09-08T21:40:06.887528-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 8b3627ecc1740f2ae2b6067256e171bc4d8d3b9ec577199202b78ed83a1cad14
+    name: go-k8s
+    urls:
+    - https://github.com/dunkletx/go-k8s.git/go-k8s-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-08T21:40:06.8856-05:00"
